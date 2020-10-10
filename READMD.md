@@ -1,3 +1,5 @@
+**[강의](https://www.youtube.com/watch?v=ViS8DLd6o-E)** 정리 repo
+
 # 타입시스템 올바르게 사용하는 법
 
 ## 1. 작성자와 사용자 [🔗](./writer_user.md)
@@ -15,6 +17,8 @@
 ## 7. Type Guard 로 안전함 파악하기 [🔗](./type_guard.md)
 
 ## 8. Class 를 안전하게 만들기 [🔗](./safe_class.md)
+
+[현재 진행중 >> ](https://youtu.be/ViS8DLd6o-E?t=3172)
 
 # Reference
 
